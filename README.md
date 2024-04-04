@@ -13,7 +13,7 @@ This is a solution to the [Interactive comments section challenge on Frontend Me
 - [Author](#author)
 
 
-##Overview
+## Overview
 
 ### The challenge
 
@@ -35,7 +35,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here is a link to my solution](https://github.com/KingUsang/interactive-comments-section)
-- Live Site URL: [Here is a link to a live preview](https://kingusang.github.io/calculator-app-main/)
+- Live Site URL: [Here is a link to a live preview](https://interactive-comments-section-qvgouvr7z-king-usangs-projects.vercel.app)
+
 
 ### Built with
 
